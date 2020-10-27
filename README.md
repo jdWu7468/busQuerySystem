@@ -1,6 +1,6 @@
-# citybus
+# busQuerySystem
 
-> A Vue.js project
+> 此项目为本人大学毕业设计课题而做的，采用的技术栈为vue+express，可能项目现在看上去略显拙劣且功能单一甚至有些功能来不及完善，但是却是我成为前端开发工程师路上的一个重要节点。
 
 ## Build Setup
 
